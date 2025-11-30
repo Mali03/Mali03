@@ -13,6 +13,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Mali03&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=Mali03&icon=0&color=4)](https://visitcount.itsvg.in)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mali03)

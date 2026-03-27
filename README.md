@@ -6,3 +6,5 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=Mali03&show_icons=true&theme=dracula)
+
+![](https://streak-stats.demolab.com?user=Mali03&theme=dracula)
